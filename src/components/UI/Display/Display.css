@@ -1,0 +1,7 @@
+.displayContainer {
+  border: 1px solid #ccc;
+  padding: 12px;
+  border-radius: 4px;
+  background-color: #321b1b;
+  width: 600px;
+}
