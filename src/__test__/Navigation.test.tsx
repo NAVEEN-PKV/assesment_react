@@ -1,6 +1,6 @@
 import { render, screen } from '@testing-library/react'
 import Navigation from '../components/Navigation/Navigation'
-import { describe, it,expect, vi } from 'vitest'
+import { describe, it,expect } from 'vitest'
 
 describe('Button', () => {
   it('should click the button ', () => {
