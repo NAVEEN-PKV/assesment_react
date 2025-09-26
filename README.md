@@ -18,8 +18,8 @@ Follow these steps to get your environment up and running:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Amjad-UST/react-interview-kit.git
-   cd react-interview-kit
+   git clone https://github.com/NAVEEN-PKV/assesment_react.git
+   cd assesment_react
 2. **Checkout your preferred branch**
     ```bash 
     git checkout <branch-name>
