@@ -1,9 +1,6 @@
-
-
 export interface ButtonProps {
-    label:string,
-    id:number,
-    buttonId?:number,
-    handleClick:() => void
-    
+  label: string;
+  id: number;
+  buttonId?: number;
+  handleClick: () => void;
 }

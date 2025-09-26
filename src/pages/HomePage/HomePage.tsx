@@ -1,9 +1,10 @@
-import Navigation from "../../components/Navigation/Navigation"
+import Navigation from "../../components/Tabs/Tabs"
+import { tabsData } from "../../data/TabsData"
 
 const HomePage = () => {
   return (
     <div>
-      <Navigation/>
+      <Navigation tabsData={tabsData}/>
     </div>
   )
 }

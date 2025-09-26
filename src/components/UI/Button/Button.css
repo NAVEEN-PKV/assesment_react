@@ -1,12 +1,12 @@
-.buttonContainer button{
+.button-container button{
     min-width: 150px;   
 }
-.buttonContainer button:hover{
+.button-container button:hover{
     background-color: lightblue;
     cursor: pointer;
     color: black;
 }
-.activeButton{
-    background-color: blue !important;
+.active-button{
+    background-color: blue ;
     color: white;
 }
